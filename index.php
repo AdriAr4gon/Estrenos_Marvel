@@ -70,4 +70,5 @@ curl_close($ch)
     img{
         margin: 0 auto;
     }
+    
 </style>
